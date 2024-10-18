@@ -1,0 +1,40 @@
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe.config
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.pdb
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.AssemblyReference.cache
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Form1.resources
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Properties.Resources.resources
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.GenerateResource.cache
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.exe
+C:\Users\Alejandro\OneDrive - Universidad Hispanoamericana\III Cuatrimestre\Programacion II\Tareas - Proyectos\Proyecto1\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.pdb
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe.config
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.pdb
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.AssemblyReference.cache
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Form1.resources
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Properties.Resources.resources
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.GenerateResource.cache
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.exe
+C:\Users\kenne\Downloads\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.pdb
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe.config
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.pdb
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.AssemblyReference.cache
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Form1.resources
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Properties.Resources.resources
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.GenerateResource.cache
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.exe
+C:\Users\Simón\source\repos\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.pdb
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe.config
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.pdb
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.AssemblyReference.cache
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Form1.resources
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto_Calculadora.Properties.Resources.resources
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.GenerateResource.cache
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.exe
+C:\Users\danio\Downloads\calculadora-main\calculadora-main\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.pdb
